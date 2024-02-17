@@ -1,5 +1,6 @@
 # CODSOFT Tasks
-A Repository Regarding CODSOFT Internship Projects
+- A Repository Regarding CODSOFT Internship Projects
+
 ![Tasks](Tasks.png)
 
 ---
@@ -15,6 +16,6 @@ A Repository Regarding CODSOFT Internship Projects
 ---
 
 ## Task 1 : Calculator
-![calculator](calculator.png)
+![calculator|400](calculator.png)
 
 

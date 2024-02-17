@@ -10,12 +10,12 @@
 
 ---
 
-## Task 1 : Landing Page
+## Task 2 : Landing Page
 ![Landing_page](Landing_page.png)
 
 ---
 
-## Task 1 : Calculator
+## Task 2 : Calculator
 ![calculator|400](calculator.png)
 
 

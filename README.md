@@ -16,6 +16,6 @@
 ---
 
 ## Task 2 : [Calculator](https://ratandeep1017.github.io/MyProjects/MyProjects/calculator/index.html)
-![calculator](calculator.png)
+![calculator|300](calculator.png)
 
 

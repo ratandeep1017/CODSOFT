@@ -1,5 +1,5 @@
-# [CODSOFT Tasks](https://ratandeep1017.github.io/CODSOFT/)
-- A Repository Regarding CODSOFT Internship Projects
+# [Internship Tasks](https://ratandeep1017.github.io/CODSOFT/)
+- A Repository Regarding My Internship Projects
 
 ![Tasks](Tasks.png)
 

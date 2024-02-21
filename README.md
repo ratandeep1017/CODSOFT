@@ -15,7 +15,7 @@
 
 ---
 
-## Task 2 : [Calculator](https://ratandeep1017.github.io/MyProjects/MyProjects/calculator/index.html)
+## Task 3 : [Calculator](https://ratandeep1017.github.io/MyProjects/MyProjects/calculator/index.html)
 ![calculator|300](calculator.png)
 
 
